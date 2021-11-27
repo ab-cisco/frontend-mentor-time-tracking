@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'),
+        url(./assets/fonts/Rubik-Regular.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-weight: 300;
+    src: local('Rubik'), url(./assets/fonts/Rubik-Light.ttf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-weight: 500;
+    src: local('Rubik'), url(./assets/fonts/Rubik-Medium.ttf) format('opentype');
+}
+
+html,
+body {
+    margin: 0;
+    font-family: 'Rubik';
+    background-color: hsl(226, 43%, 10%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}

@@ -1,0 +1,35 @@
+.dashboard {
+    display: grid;
+    grid-template-columns: 240px 230px 230px 230px;
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    grid-auto-rows: 230px;
+
+    padding: 200px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.profile {
+    border-radius: 20px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 375px) {
+    .dashboard {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr repeat(8, 160px);
+        grid-row-gap: 20px;
+        grid-auto-rows: 200px;
+
+        padding: 100px 20px;
+    }
+
+    .profile {
+        background-color: hsl(235, 45%, 61%);
+    }
+}

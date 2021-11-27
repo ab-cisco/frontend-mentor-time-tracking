@@ -1,0 +1,91 @@
+:local {
+    .profile {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-rows: 2fr 1fr;
+
+        background-color: hsl(235, 46%, 20%);
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        background-color: hsl(246, 80%, 60%);
+        border-radius: 20px;
+        padding: 25px;
+    }
+
+    .profileImage {
+        width: 80px;
+        height: 80px;
+        border: solid 3px white;
+        border-radius: 50%;
+    }
+
+    .title {
+        color: white;
+        display: flex;
+        flex-direction: column;
+        font-weight: 300;
+        padding-top: 35px;
+    }
+
+    .titleReport {
+        font-size: 32px;
+    }
+
+    .titleName {
+        font-size: 36px;
+    }
+
+    .profileMenu {
+        padding: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        color: hsl(236, 100%, 87%);
+    }
+
+    .btn {
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    .btnActive {
+        color: white;
+    }
+
+    .btn:hover {
+        color: white;
+    }
+
+    @media only screen and (max-width: 375px) {
+        .profile {
+            grid-template-rows: 1fr;
+        }
+
+        .header {
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .profileImage {
+            width: 70px;
+            height: 70px;
+        }
+
+        .title {
+            padding-top: 0;
+            padding-left: 20px;
+        }
+
+        .name {
+            font-size: 24px;
+        }
+
+        .menu {
+            flex-direction: row;
+        }
+    }
+}
