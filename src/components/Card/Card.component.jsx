@@ -5,7 +5,7 @@ import cn from 'classnames'
 import { CardType } from './Card.utils'
 import { ReactComponent as IconEllipsis } from '../../assets/images/icon-ellipsis.svg'
 
-import styles from './Card.modules.scss'
+import styles from './Card.module.scss'
 
 const Card = ({ data, timeType }) => {
     const { title, timeframes } = data
