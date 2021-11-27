@@ -30,11 +30,11 @@ Users should be able to:
 
 #### Desktop solution
 
-![Desktop](./desktop.png)
+<img src="./desktop.png" alt="Desktop" width="1000px" />
 
 #### Mobile solution
 
-<img src="./mobile.png" alt="Mobile" style="zoom: 25%;" />
+<img src="./mobile.png" alt="Mobile" width="250px" />
 
 ### Links
 
