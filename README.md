@@ -34,12 +34,12 @@ Users should be able to:
 
 #### Mobile solution
 
-![Mobile](./mobile.png)
+<img src="./mobile.png" alt="Mobile" style="zoom: 25%;" />
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [GitHub](https://github.com/ab-cisco/frontend-mentor-time-tracking)
+-   Live Site URL: [GitHub Pages](https://ab-cisco.github.io/frontend-mentor-time-tracking/)
 
 ### Built with
 
@@ -57,5 +57,5 @@ Users should be able to:
 
 ## Author
 
--   Website - [Aleksandr Berezin](https://www.your-site.com)
+-   Website - [Aleksandr Berezin](https://github.com/ab-cisco)
 -   Frontend Mentor - [@ab-cisco](https://www.frontendmentor.io/profile/ab-cisco)
