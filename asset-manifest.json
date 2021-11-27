@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-time-tracking/static/css/main.c842b3a3.chunk.css",
+    "main.js": "/frontend-mentor-time-tracking/static/js/main.3bcb1023.chunk.js",
+    "main.js.map": "/frontend-mentor-time-tracking/static/js/main.3bcb1023.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-time-tracking/static/js/runtime-main.a650bb5b.js",
+    "runtime-main.js.map": "/frontend-mentor-time-tracking/static/js/runtime-main.a650bb5b.js.map",
+    "static/js/2.df370eff.chunk.js": "/frontend-mentor-time-tracking/static/js/2.df370eff.chunk.js",
+    "static/js/2.df370eff.chunk.js.map": "/frontend-mentor-time-tracking/static/js/2.df370eff.chunk.js.map",
+    "static/js/3.47709f0f.chunk.js": "/frontend-mentor-time-tracking/static/js/3.47709f0f.chunk.js",
+    "static/js/3.47709f0f.chunk.js.map": "/frontend-mentor-time-tracking/static/js/3.47709f0f.chunk.js.map",
+    "index.html": "/frontend-mentor-time-tracking/index.html",
+    "static/css/main.c842b3a3.chunk.css.map": "/frontend-mentor-time-tracking/static/css/main.c842b3a3.chunk.css.map",
+    "static/js/2.df370eff.chunk.js.LICENSE.txt": "/frontend-mentor-time-tracking/static/js/2.df370eff.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/frontend-mentor-time-tracking/static/media/Rubik-Regular.da39336c.ttf",
+    "static/media/icon-ellipsis.a57a4ac8.svg": "/frontend-mentor-time-tracking/static/media/icon-ellipsis.a57a4ac8.svg",
+    "static/media/icon-exercise.3e7b0282.svg": "/frontend-mentor-time-tracking/static/media/icon-exercise.3e7b0282.svg",
+    "static/media/icon-play.e8d4e569.svg": "/frontend-mentor-time-tracking/static/media/icon-play.e8d4e569.svg",
+    "static/media/icon-self-care.a161aff5.svg": "/frontend-mentor-time-tracking/static/media/icon-self-care.a161aff5.svg",
+    "static/media/icon-social.64be0c18.svg": "/frontend-mentor-time-tracking/static/media/icon-social.64be0c18.svg",
+    "static/media/icon-study.1f0a65e4.svg": "/frontend-mentor-time-tracking/static/media/icon-study.1f0a65e4.svg",
+    "static/media/icon-work.a3f124e5.svg": "/frontend-mentor-time-tracking/static/media/icon-work.a3f124e5.svg",
+    "static/media/image-jeremy.71cd41f1.png": "/frontend-mentor-time-tracking/static/media/image-jeremy.71cd41f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a650bb5b.js",
+    "static/js/2.df370eff.chunk.js",
+    "static/css/main.c842b3a3.chunk.css",
+    "static/js/main.3bcb1023.chunk.js"
+  ]
+}
